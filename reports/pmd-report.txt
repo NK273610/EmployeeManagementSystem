@@ -1,0 +1,489 @@
+src/com/igate/employee/controller/EmployeeController.java:1:	Possible God class (WMC=50, ATFD=19, TCC=0.0)
+src/com/igate/employee/controller/EmployeeController.java:3:	Avoid unused imports such as 'java.util.List'
+src/com/igate/employee/controller/EmployeeController.java:23:	headerCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:25:	Use explicit scoping instead of the default package private level
+src/com/igate/employee/controller/EmployeeController.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/employee/controller/EmployeeController.java:26:	fieldCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:29:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:29:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:31:	Local variable 'user' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:38:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:38:	Parameter 'result' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:38:	Parameter 'user1' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:38:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:40:	Found 'DU'-anomaly for variable 'userid' (lines '40'-'95').
+src/com/igate/employee/controller/EmployeeController.java:40:	Local variable 'userid' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:41:	Found 'DU'-anomaly for variable 'uname' (lines '41'-'95').
+src/com/igate/employee/controller/EmployeeController.java:41:	Local variable 'uname' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:42:	Found 'DU'-anomaly for variable 'pass' (lines '42'-'95').
+src/com/igate/employee/controller/EmployeeController.java:42:	Local variable 'pass' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:43:	Found 'DU'-anomaly for variable 'usertype' (lines '43'-'95').
+src/com/igate/employee/controller/EmployeeController.java:43:	Local variable 'usertype' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:47:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:53:	Position literals first in String comparisons for EqualsIgnoreCase
+src/com/igate/employee/controller/EmployeeController.java:53:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/controller/EmployeeController.java:56:	Avoid using Literals in Conditional Statements
+src/com/igate/employee/controller/EmployeeController.java:58:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:62:	The String literal "errMsg" appears 19 times in this file; the first occurrence is on line 62
+src/com/igate/employee/controller/EmployeeController.java:63:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:63:	The String literal "error" appears 20 times in this file; the first occurrence is on line 63
+src/com/igate/employee/controller/EmployeeController.java:66:	Position literals first in String comparisons for EqualsIgnoreCase
+src/com/igate/employee/controller/EmployeeController.java:66:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/controller/EmployeeController.java:69:	Avoid using Literals in Conditional Statements
+src/com/igate/employee/controller/EmployeeController.java:71:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:76:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:82:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:89:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/controller/EmployeeController.java:99:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:99:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:103:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:104:	Avoid if (x != y) ..; else ..;
+src/com/igate/employee/controller/EmployeeController.java:104:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/controller/EmployeeController.java:106:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:111:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:124:	Method names should not start with capital letters
+src/com/igate/employee/controller/EmployeeController.java:124:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:124:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:126:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:127:	Local variable 'myDep' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:136:	Local variable 'grade' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:146:	Local variable 'gender' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:151:	Local variable 'mstatus' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:158:	The String literal "emp" appears 21 times in this file; the first occurrence is on line 158
+src/com/igate/employee/controller/EmployeeController.java:165:	Parameter 'emp' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:165:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:165:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:167:	System.out.print is used
+src/com/igate/employee/controller/EmployeeController.java:170:	Local variable 'rows' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:172:	Avoid if (x != y) ..; else ..;
+src/com/igate/employee/controller/EmployeeController.java:174:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:179:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:193:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:193:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:195:	Local variable 'employee' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:201:	Parameter 'empid' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:201:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:201:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:205:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:207:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:220:	Parameter 'empId' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:220:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:220:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:225:	Local variable 'rows' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:226:	Avoid if (x != y) ..; else ..;
+src/com/igate/employee/controller/EmployeeController.java:226:	Avoid using Literals in Conditional Statements
+src/com/igate/employee/controller/EmployeeController.java:229:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:235:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:249:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:249:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:251:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:257:	Parameter 'emp' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:257:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:257:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:259:	Local variable 'empid' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:262:	Local variable 'emp1' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:264:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:276:	Parameter 'emp' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:276:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:276:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:281:	Local variable 'rowcount' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:282:	Avoid if (x != y) ..; else ..;
+src/com/igate/employee/controller/EmployeeController.java:282:	Avoid using Literals in Conditional Statements
+src/com/igate/employee/controller/EmployeeController.java:284:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:289:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:303:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:303:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:305:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:311:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:311:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:311:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:315:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:317:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:317:	The String literal "display" appears 6 times in this file; the first occurrence is on line 317
+src/com/igate/employee/controller/EmployeeController.java:328:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:328:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:330:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:336:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:336:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:336:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:340:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:342:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:354:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:354:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:356:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:362:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:362:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:362:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:366:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:368:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:380:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:380:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:382:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:388:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:388:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:388:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:392:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:394:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:405:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:405:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:407:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:413:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:413:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:413:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:417:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:419:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:431:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:431:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:433:	Local variable 'emp' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:439:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:439:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:439:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:443:	Local variable 'empList' could be declared final
+src/com/igate/employee/controller/EmployeeController.java:445:	A method should have only one exit point, and that should be the last statement in the method
+src/com/igate/employee/controller/EmployeeController.java:456:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:456:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:462:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:462:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:468:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:468:	publicMethodCommentRequirement Required
+src/com/igate/employee/controller/EmployeeController.java:474:	Parameter 'model' is not assigned and could be declared final
+src/com/igate/employee/controller/EmployeeController.java:474:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:17:	headerCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/employee/dao/EmployeeDAO.java:20:	fieldCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:22:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:28:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:30:	Local variable 'isql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:37:	Local variable 'empList' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:38:	Consider simply returning the value vs storing it in local variable 'empList'
+src/com/igate/employee/dao/EmployeeDAO.java:42:	Parameter 'empid' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:42:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:44:	Local variable 'str' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:45:	Avoid variables with short names like or
+src/com/igate/employee/dao/EmployeeDAO.java:45:	Local variable 'or' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/dao/EmployeeDAO.java:47:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:54:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:55:	Consider simply returning the value vs storing it in local variable 'emp'
+src/com/igate/employee/dao/EmployeeDAO.java:60:	Parameter 'empfirstName' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:60:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:62:	Local variable 'str' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:63:	Avoid variables with short names like or
+src/com/igate/employee/dao/EmployeeDAO.java:63:	Local variable 'or' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/dao/EmployeeDAO.java:64:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:70:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:71:	Consider simply returning the value vs storing it in local variable 'emp'
+src/com/igate/employee/dao/EmployeeDAO.java:76:	Parameter 'emplastName' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:76:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:78:	Local variable 'str' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:79:	Avoid variables with short names like or
+src/com/igate/employee/dao/EmployeeDAO.java:79:	Local variable 'or' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:79:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/dao/EmployeeDAO.java:80:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:80:	The String literal "select emp_id,emp_first_name,emp_last_name,emp_date_of_birth,emp_date_of_joining" appears 4 times in this file; the first occurrence is on line 80
+src/com/igate/employee/dao/EmployeeDAO.java:81:	The String literal ",emp_dept_id,dept_name,emp_grade,emp_designation,emp_basic,emp_gender,emp_marital_status,emp_home_address" appears 4 times in this file; the first occurrence is on line 81
+src/com/igate/employee/dao/EmployeeDAO.java:82:	The String literal ",emp_contact_num,description,min_salary," appears 4 times in this file; the first occurrence is on line 82
+src/com/igate/employee/dao/EmployeeDAO.java:83:	The String literal "max_salary from employee_detail e,department_masters d" appears 4 times in this file; the first occurrence is on line 83
+src/com/igate/employee/dao/EmployeeDAO.java:84:	The String literal ",grade_master g where e.emp_dept_id=d.dept_code and e.emp_grade=g.grade_code " appears 4 times in this file; the first occurrence is on line 84
+src/com/igate/employee/dao/EmployeeDAO.java:86:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:87:	Consider simply returning the value vs storing it in local variable 'emp'
+src/com/igate/employee/dao/EmployeeDAO.java:92:	Parameter 'deptId' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:92:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:94:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:100:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:101:	Consider simply returning the value vs storing it in local variable 'emp'
+src/com/igate/employee/dao/EmployeeDAO.java:105:	Parameter 'empGrade' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:105:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:107:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:113:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:114:	Consider simply returning the value vs storing it in local variable 'emp'
+src/com/igate/employee/dao/EmployeeDAO.java:118:	Parameter 'empMaritalStatus' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:118:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:120:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:126:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:127:	Consider simply returning the value vs storing it in local variable 'emp'
+src/com/igate/employee/dao/EmployeeDAO.java:133:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:133:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:135:	Found 'DD'-anomaly for variable 'updatesql' (lines '135'-'138').
+src/com/igate/employee/dao/EmployeeDAO.java:136:	Found 'DD'-anomaly for variable 'count' (lines '136'-'157').
+src/com/igate/employee/dao/EmployeeDAO.java:141:	Local variable 'fname' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:142:	Local variable 'lname' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:143:	Local variable 'dob' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:144:	Local variable 'doj' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:145:	System.out.print is used
+src/com/igate/employee/dao/EmployeeDAO.java:146:	Local variable 'dept' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:147:	Local variable 'grade' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:148:	Local variable 'design' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:149:	Local variable 'basic' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:150:	Local variable 'gender' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:151:	Local variable 'mstatus' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:152:	Local variable 'haddress' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:153:	Local variable 'contact' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:154:	Avoid variables with short names like id
+src/com/igate/employee/dao/EmployeeDAO.java:154:	Local variable 'id' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:156:	Local variable 'params' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:157:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/employee/dao/EmployeeDAO.java:159:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/igate/employee/dao/EmployeeDAO.java:161:	Avoid printStackTrace(); use a logger call instead.
+src/com/igate/employee/dao/EmployeeDAO.java:161:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/dao/EmployeeDAO.java:169:	Parameter 'empId' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:169:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:171:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:172:	Local variable 'params' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:174:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/employee/dao/EmployeeDAO.java:179:	Parameter 'emp' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:179:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:181:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:182:	Local variable 'isql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:184:	Found 'DD'-anomaly for variable 'eid' (lines '184'-'187').
+src/com/igate/employee/dao/EmployeeDAO.java:187:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/employee/dao/EmployeeDAO.java:189:	Local variable 'params' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:205:	Local variable 'inserted' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:205:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/employee/dao/EmployeeDAO.java:206:	System.out.print is used
+src/com/igate/employee/dao/EmployeeDAO.java:210:	New exception is thrown in catch block, original stack trace may be lost
+src/com/igate/employee/dao/EmployeeDAO.java:210:	Potential violation of Law of Demeter (object not created locally)
+src/com/igate/employee/dao/EmployeeDAO.java:216:	Parameter 'pass' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:216:	Parameter 'uname' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:216:	Parameter 'userid' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:216:	Parameter 'usertype' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:216:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/com/igate/employee/dao/EmployeeDAO.java:216:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:218:	Local variable 'query' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:219:	Potential violation of Law of Demeter (method chain calls)
+src/com/igate/employee/dao/EmployeeDAO.java:222:	Parameter 'empid' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:222:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeDAO.java:224:	Found 'DD'-anomaly for variable 'emp' (lines '224'-'229').
+src/com/igate/employee/dao/EmployeeDAO.java:227:	System.out.print is used
+src/com/igate/employee/dao/EmployeeDAO.java:228:	Local variable 'sql' could be declared final
+src/com/igate/employee/dao/EmployeeDAO.java:234:	Avoid printStackTrace(); use a logger call instead.
+src/com/igate/employee/dao/EmployeeMapper.java:10:	headerCommentRequirement Required
+src/com/igate/employee/dao/EmployeeMapper.java:14:	Avoid variables with short names like rs
+src/com/igate/employee/dao/EmployeeMapper.java:14:	Parameter 'num' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeMapper.java:14:	Parameter 'rs' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeMapper.java:14:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeMapper.java:16:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/EmployeeMapper.java:30:	System.out.print is used
+src/com/igate/employee/dao/EmployeeRowMapper.java:10:	headerCommentRequirement Required
+src/com/igate/employee/dao/EmployeeRowMapper.java:14:	Avoid variables with short names like rs
+src/com/igate/employee/dao/EmployeeRowMapper.java:14:	Parameter 'num' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeRowMapper.java:14:	Parameter 'rs' is not assigned and could be declared final
+src/com/igate/employee/dao/EmployeeRowMapper.java:14:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/EmployeeRowMapper.java:17:	Local variable 'emp' could be declared final
+src/com/igate/employee/dao/IEmployeeDAO.java:5:	Avoid unused imports such as 'javax.annotation.PostConstruct'
+src/com/igate/employee/dao/IEmployeeDAO.java:10:	headerCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:12:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:12:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/dao/IEmployeeDAO.java:12:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:14:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:14:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/dao/IEmployeeDAO.java:14:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:17:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:17:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/dao/IEmployeeDAO.java:17:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:20:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:20:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/dao/IEmployeeDAO.java:20:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:23:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:23:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/dao/IEmployeeDAO.java:23:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:26:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:26:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/dao/IEmployeeDAO.java:26:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:29:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:29:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/dao/IEmployeeDAO.java:29:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:32:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:32:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:34:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:34:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:36:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:36:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:38:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:38:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/com/igate/employee/dao/IEmployeeDAO.java:38:	publicMethodCommentRequirement Required
+src/com/igate/employee/dao/IEmployeeDAO.java:40:	Avoid modifiers which are implied by the context
+src/com/igate/employee/dao/IEmployeeDAO.java:40:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Department.java:3:	headerCommentRequirement Required
+src/com/igate/employee/dto/Department.java:4:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Department.java:5:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Department.java:6:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Department.java:9:	Parameter 'deptid' is not assigned and could be declared final
+src/com/igate/employee/dto/Department.java:9:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Department.java:12:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Department.java:15:	Parameter 'deptname' is not assigned and could be declared final
+src/com/igate/employee/dto/Department.java:15:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:5:	headerCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:7:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:8:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:9:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:10:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:11:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:12:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:13:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:14:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:15:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:16:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:17:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:18:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:19:	fieldCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:21:	It is a good practice to call super() in a constructor
+src/com/igate/employee/dto/Employee.java:21:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:25:	Parameter 'dob' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:25:	Parameter 'empId' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:25:	Parameter 'firstname' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:25:	Parameter 'lastname' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:25:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:26:	Parameter 'designation' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:26:	Parameter 'doj' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:26:	Parameter 'egrade' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:26:	Parameter 'empdepid' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:27:	Parameter 'empbasic' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:27:	Parameter 'gender' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:27:	Parameter 'maritalStatus' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:28:	Parameter 'contact' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:28:	Parameter 'homeaddress' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:45:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:49:	Parameter 'employeeId' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:49:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:53:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:57:	Parameter 'firstname' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:57:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:61:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:65:	Parameter 'lastname' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:65:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:69:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:73:	Parameter 'dob' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:73:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:77:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:81:	Parameter 'doj' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:81:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:85:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:89:	Parameter 'empdepid' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:89:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:93:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:97:	Parameter 'egrade' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:97:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:101:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:105:	Parameter 'designation' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:105:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:109:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:113:	Parameter 'empbasic' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:113:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:117:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:121:	Parameter 'gender' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:121:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:125:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:129:	Parameter 'maritalStatus' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:129:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:133:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:137:	Parameter 'homeaddress' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:137:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:141:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:145:	Parameter 'contact' is not assigned and could be declared final
+src/com/igate/employee/dto/Employee.java:145:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/Employee.java:150:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:3:	headerCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:5:	fieldCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:6:	fieldCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:7:	fieldCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:8:	fieldCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:9:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:12:	Parameter 'gradeCode' is not assigned and could be declared final
+src/com/igate/employee/dto/GradeMaster.java:12:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:15:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:18:	Parameter 'description' is not assigned and could be declared final
+src/com/igate/employee/dto/GradeMaster.java:18:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:21:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:24:	Parameter 'string' is not assigned and could be declared final
+src/com/igate/employee/dto/GradeMaster.java:24:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:27:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/GradeMaster.java:30:	Parameter 'maxSal' is not assigned and could be declared final
+src/com/igate/employee/dto/GradeMaster.java:30:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:7:	headerCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:10:	fieldCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:13:	fieldCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:15:	fieldCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:17:	fieldCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:20:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:23:	Parameter 'userid' is not assigned and could be declared final
+src/com/igate/employee/dto/UserMaster.java:23:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:26:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:29:	Parameter 'username' is not assigned and could be declared final
+src/com/igate/employee/dto/UserMaster.java:29:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:32:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:35:	Parameter 'password' is not assigned and could be declared final
+src/com/igate/employee/dto/UserMaster.java:35:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:38:	publicMethodCommentRequirement Required
+src/com/igate/employee/dto/UserMaster.java:41:	Parameter 'usertype' is not assigned and could be declared final
+src/com/igate/employee/dto/UserMaster.java:41:	publicMethodCommentRequirement Required
+src/com/igate/employee/exception/EmployeeException.java:3:	headerCommentRequirement Required
+src/com/igate/employee/exception/EmployeeException.java:5:	It is a good practice to call super() in a constructor
+src/com/igate/employee/exception/EmployeeException.java:5:	publicMethodCommentRequirement Required
+src/com/igate/employee/exception/EmployeeException.java:9:	Parameter 'msg' is not assigned and could be declared final
+src/com/igate/employee/exception/EmployeeException.java:9:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:13:	headerCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:15:	Use explicit scoping instead of the default package private level
+src/com/igate/employee/service/EmployeeService.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/igate/employee/service/EmployeeService.java:16:	fieldCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:19:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:19:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:24:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:30:	Parameter 'empid' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:30:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:35:	Parameter 'empfirstName' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:35:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:40:	Parameter 'emplastName' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:40:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:45:	Parameter 'deptId' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:45:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:51:	Parameter 'empGrade' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:51:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:57:	Parameter 'empMaritalStatus' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:57:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:63:	Parameter 'employee' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:63:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:69:	Parameter 'empId' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:69:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:74:	Parameter 'pass' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:74:	Parameter 'uname' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:74:	Parameter 'userid' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:74:	Parameter 'usertype' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:74:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/com/igate/employee/service/EmployeeService.java:74:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/EmployeeService.java:78:	Parameter 'empid' is not assigned and could be declared final
+src/com/igate/employee/service/EmployeeService.java:78:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:8:	headerCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:10:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:10:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:12:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:12:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/service/IEmployeeService.java:12:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:14:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:14:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/service/IEmployeeService.java:14:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:17:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:17:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/service/IEmployeeService.java:17:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:20:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:20:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/service/IEmployeeService.java:20:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:23:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:23:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/service/IEmployeeService.java:23:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:26:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:26:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/service/IEmployeeService.java:26:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:29:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:29:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/igate/employee/service/IEmployeeService.java:29:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:32:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:32:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:34:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:34:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:36:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:36:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/com/igate/employee/service/IEmployeeService.java:36:	publicMethodCommentRequirement Required
+src/com/igate/employee/service/IEmployeeService.java:38:	Avoid modifiers which are implied by the context
+src/com/igate/employee/service/IEmployeeService.java:38:	publicMethodCommentRequirement Required
